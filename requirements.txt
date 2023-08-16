@@ -1,0 +1,3 @@
+sentence_transformers
+pinecone-client[grpc]
+pandas
